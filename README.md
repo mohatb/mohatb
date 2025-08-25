@@ -32,16 +32,18 @@ Cloud & Containers | Kubernetes & AKS | Go / Python / PHP-Laravel | Linux & DevO
 
 - **kubectl-exec** – Open-source tool for executing commands inside Kubernetes pods more easily.  
   👉 Repo: [kubectl-exec](https://github.com/mohatb/kubectl-exec)
-- **kubego** – Go library for Kubernetes automation.  
+- **kubego** – Go implementation for kubectl-exec.  
   👉 Repo: [kubego](https://github.com/mohatb/kubego)
 - **GeeksAI** – Full AI-powered web application for productivity, automation, and learning.  
   👉 Website: [geeksai.me](https://geeksai.me/)
 - **Bingo Live** – Real-time, multiplayer bingo (host + participants, Socket.io/Redis, leaderboard).  
-  👉 Website: [https://github.com/mohatb/bi](https://bingoot.com/)
+  👉 Website: [https://github.com/mohatb/bingo-live](https://bingoot.com/)
 - **Immich Auto-Albums CLI** – Groups photos by country & timeline; optional AI descriptions; Immich API only.  
   👉 Repo: [https://github.com/mohatb/immich-auto-albums](https://github.com/mohatb/immich-autoAlbum)
 - **TripPipeline (Android)** – Jetpack Compose app to plan trips with offline-first notes & map waypoints.  
   👉 Repo: https://github.com/mohatb/TripPipeline
+- **Codex Labs** – Katacoda-style interactive learning platform with container terminals and teacher scenarios.  
+  👉 Repo: https://github.com/mohatb/codex-labs
 
 ---
 
@@ -53,7 +55,7 @@ Cloud & Containers | Kubernetes & AKS | Go / Python / PHP-Laravel | Linux & DevO
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohatb&theme=react-dark)
 
----
+---------
 
 ## 🧩 What I’m Building Now
 
@@ -78,4 +80,17 @@ Cloud & Containers | Kubernetes & AKS | Go / Python / PHP-Laravel | Linux & DevO
 [![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:mohatb@example.com)
 [![Website](https://img.shields.io/badge/GeeksAI-Explore-1f6feb)](https://geeksai.me/)
 
+---
+
+## 📚 Publications
+
+<a href="https://www.amazon.com/Kubernetes-Workshop-Interactive-Approach-Learning/dp/1838820752">
+  <img src="https://m.media-amazon.com/images/I/81rJc-6PPpL._AC_CR0%2C0%2C0%2C0_SX480_SY360_.jpg" alt="Kubernetes Workshop Book" width="200" />
+</a>
+
+- **Kubernetes Workshop: An Interactive Approach to Learning Kubernetes**  
+  👉 [Amazon Book Page](https://www.amazon.com/Kubernetes-Workshop-Interactive-Approach-Learning/dp/1838820752)  
+  👉 [Author Profile](https://www.amazon.com/stores/author/B08KGQ31MK/about)
+
+---
 
