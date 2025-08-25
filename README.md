@@ -51,7 +51,7 @@ Cloud & Containers | Kubernetes & AKS | Go / Python / PHP-Laravel | Linux & DevO
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohatb&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohatb&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohatb&theme=react-dark)
 
 ---
 
