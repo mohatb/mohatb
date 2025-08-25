@@ -47,17 +47,11 @@ Cloud & Containers | Kubernetes & AKS | Go / Python / PHP-Laravel | Linux & DevO
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/mohatb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohatb&show_icons=true&theme=transparent" alt="GitHub stats" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohatb&show_icons=true&theme=tokyonight&count_private=true)
 
-<a href="https://github.com/mohatb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohatb&layout=compact&theme=transparent" alt="Top languages" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohatb&layout=compact&theme=tokyonight)
 
-<a href="https://github.com/mohatb">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohatb&theme=transparent" alt="GitHub streak" />
-</a>
+![GitHub Streak](https://streak-stats.demolab.com?user=mohatb&theme=tokyonight)
 
 ---
 
