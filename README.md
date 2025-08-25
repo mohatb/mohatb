@@ -37,7 +37,7 @@ Cloud & Containers | Kubernetes & AKS | Go / Python / PHP-Laravel | Linux & DevO
 - **GeeksAI** – Full AI-powered web application for productivity, automation, and learning.  
   👉 Website: [geeksai.me](https://geeksai.me/)
 - **Bingo Live** – Real-time, multiplayer bingo (host + participants, Socket.io/Redis, leaderboard).  
-  👉 Website: [https://github.com/mohatb/bingo-live](https://bingoot.com/)
+  👉 Website: [bingoot.com](https://bingoot.com/)
 - **Immich Auto-Albums CLI** – Groups photos by country & timeline; optional AI descriptions; Immich API only.  
   👉 Repo: [https://github.com/mohatb/immich-auto-albums](https://github.com/mohatb/immich-autoAlbum)
 - **TripPipeline (Android)** – Jetpack Compose app to plan trips with offline-first notes & map waypoints.  
