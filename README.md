@@ -1,8 +1,11 @@
 # Hi, I'm Mohammed 👋
 
-Cloud & Containers | Kubernetes & AKS | Go / Python / PHP-Laravel | Linux & DevOps
+Cloud & Containers | Kubernetes & AKS | Go / Python / PHP-Laravel | Linux & DevOps | Author
 
-> Azure expert focusing on AKS, VMs, Storage & Identity · Builder of containerized apps, open-source tools, and homelab experiments.
+> Azure expert with 15+ years in Cloud, Linux, and DevOps · Specialist in Kubernetes (AKS, CKA/CKAD) · Builder of containerized apps, open-source tools, and homelab experiments.
+
+![Experience](https://img.shields.io/badge/Experience-15%2B_Years-blue?style=for-the-badge)
+![Certificates](https://img.shields.io/badge/Certificates-30%2B-success?style=for-the-badge)
 
 ---
 
@@ -39,11 +42,11 @@ Cloud & Containers | Kubernetes & AKS | Go / Python / PHP-Laravel | Linux & DevO
 - **Bingo Live** – Real-time, multiplayer bingo (host + participants, Socket.io/Redis, leaderboard).  
   👉 Website: [bingoot.com](https://bingoot.com/)
 - **Immich Auto-Albums CLI** – Groups photos by country & timeline; optional AI descriptions; Immich API only.  
-  👉 Repo: [https://github.com/mohatb/immich-auto-albums](https://github.com/mohatb/immich-autoAlbum)
+  👉 Repo: [immich-auto-albums](https://github.com/mohatb/immich-auto-albums)
 - **TripPipeline (Android)** – Jetpack Compose app to plan trips with offline-first notes & map waypoints.  
-  👉 Repo: https://github.com/mohatb/TripPipeline
+  👉 Repo: [TripPipeline](https://github.com/mohatb/TripPipeline)
 - **Codex Labs** – Katacoda-style interactive learning platform with container terminals and teacher scenarios.  
-  👉 Repo: https://github.com/mohatb/codex-labs
+  👉 Repo: [codex-labs](https://github.com/mohatb/codex-labs)
 
 ---
 
@@ -55,13 +58,45 @@ Cloud & Containers | Kubernetes & AKS | Go / Python / PHP-Laravel | Linux & DevO
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohatb&theme=react-dark)
 
----------
+---
+
+## 📚 Publications
+
+<a href="https://www.amazon.com/Kubernetes-Workshop-Interactive-Approach-Learning/dp/1838820752">
+  <img src="https://m.media-amazon.com/images/I/81rJc-6PPpL._AC_CR0%2C0%2C0%2C0_SX480_SY360_.jpg" alt="Kubernetes Workshop Book" width="200" />
+</a>
+
+- **Kubernetes Workshop: An Interactive Approach to Learning Kubernetes**  
+  👉 [Amazon Book Page](https://www.amazon.com/Kubernetes-Workshop-Interactive-Approach-Learning/dp/1838820752)  
+  👉 [Author Profile](https://www.amazon.com/stores/author/B08KGQ31MK/about)
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🎓 **30+ Certifications** in Linux, Kubernetes, Cloud & Virtualization
+- 🐧 Linux Foundation: **LFCS**
+- ☸️ Kubernetes: **CKA**, **CKAD**
+- ☁️ Azure: **AI-900**, other Microsoft cloud certifications
+- 🖥️ Microsoft: **MCSA**, **MCITP**
+- 💡 Virtualization: multiple VMware/KVM/Microsoft certificates and experties
+- 🥇 Hackathon: 3 years 1st place winner in Hackathon
+
+---
+
+## 🎤 Talks & Mentorship
+
+- Speaker: Azure Kubernetes Troubleshooting, Microsoft Tech Community
+- Mentor: Advisor and Mentor for 90+ Engineers on Azure Containers Team
+- Author: *Kubernetes Workshop* (Packt Publishing)
+
+---
 
 ## 🧩 What I’m Building Now
 
 - 🔭 Scaling **AKS clusters** with advanced governance and policy enforcement.
 - 🧪 Local AI experiments: **Ollama**, **DeepSeek-R1**, vector DBs for whisper transcripts.
-- 🧱 Homelab: **Proxmox**, **TrueNAS**, **ZFS** mirrors, GPU-enabled AI stack.
+- 🧱 Homelab: **Proxmox**, **TrueNAS**, **ZFS** mirrors, GPU-enabled AI stack, Kubernetes CLI and troubleshooting Tools.
 
 ---
 
@@ -76,21 +111,7 @@ Cloud & Containers | Kubernetes & AKS | Go / Python / PHP-Laravel | Linux & DevO
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohatb)
-[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:mohatb@example.com)
-[![Website](https://img.shields.io/badge/GeeksAI-Explore-1f6feb)](https://geeksai.me/)
-
----
-
-## 📚 Publications
-
-<a href="https://www.amazon.com/Kubernetes-Workshop-Interactive-Approach-Learning/dp/1838820752">
-  <img src="https://m.media-amazon.com/images/I/81rJc-6PPpL._AC_CR0%2C0%2C0%2C0_SX480_SY360_.jpg" alt="Kubernetes Workshop Book" width="200" />
-</a>
-
-- **Kubernetes Workshop: An Interactive Approach to Learning Kubernetes**  
-  👉 [Amazon Book Page](https://www.amazon.com/Kubernetes-Workshop-Interactive-Approach-Learning/dp/1838820752)  
-  👉 [Author Profile](https://www.amazon.com/stores/author/B08KGQ31MK/about)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohabutaleb)  
 
 ---
 
